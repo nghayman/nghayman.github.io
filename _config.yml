@@ -1,0 +1,17 @@
+# Jekyll Resume Theme
+
+# Site settings
+title: Ng Hay Man's Portfolio
+email: michelle.hmng@gmail.com
+description: Man Ng's Portfolio
+baseurl: ""
+url: ""
+name: NG Hay Man
+job: professional writer and social researcher
+location: Hong Kong
+languages: Cantonese, Chinese and English
+cv: /assets/NG_Hay_Man_CV.pdf
+email_address: michelle.hmng@gmail.com
+
+# Build settings
+markdown: kramdown

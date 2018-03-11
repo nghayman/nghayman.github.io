@@ -142,8 +142,7 @@ dd {
 
 a {
   color: black !important;
-  background: rgba(245, 215, 110, 0.5);
   transition: all linear .2s; }
   a:hover {
-    background: #2bef8d;
+    background: #f5d76e;
     text-decoration: none; }
